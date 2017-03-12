@@ -1,2 +1,2 @@
 # jundo-app
-An app that accesses a database of resources (
+An app that accesses a database of resources. 
